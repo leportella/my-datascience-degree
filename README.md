@@ -2,7 +2,7 @@
 
 This is an aggregate of the courses I did to make my own data science "degree".
 
-# Done
+## Done
 
 ### NanoDegree
 - [Introduction to Descriptive Statistics - Udacity](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
