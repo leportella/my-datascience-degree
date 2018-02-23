@@ -14,8 +14,10 @@ This is an aggregate of the courses I did to make my own data science "degree".
 ### Data Engineer
 - Data Engineer by Hekima
 
+### DataBases
+- [M001: MongoDB Basics - Mongo University](https://university.mongodb.com/mercury/M001/2018_January/syllabus)
+
 ## Doing
 
-- [M001: MongoDB Basics - Mongo University](https://university.mongodb.com/mercury/M001/2018_January/syllabus)
 - [Intro to Data Science - Udacity](https://br.udacity.com/course/intro-to-data-science--ud359)
 
