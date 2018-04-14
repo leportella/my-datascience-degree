@@ -17,6 +17,10 @@ This is an aggregate of the courses I did to make my own data science "degree".
 ### DataBases
 - [M001: MongoDB Basics - Mongo University](https://university.mongodb.com/mercury/M001/2018_January/syllabus) - [Certificate](https://github.com/leportella/my-datascience-degree/blob/master/certificates/M001%20-%20Course%20Completion%20Confirmation.pdf)
 
+### Books
+
+- [On being data skeptic by Cathy O'Neil](http://www.oreilly.com/data/free/being-a-data-skeptic.csp)
+
 ## Doing
 
 - [Intro to Data Science - Udacity](https://br.udacity.com/course/intro-to-data-science--ud359)
