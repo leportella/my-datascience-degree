@@ -23,5 +23,4 @@ This is an aggregate of the courses I did to make my own data science "degree".
 
 ## Doing
 
-- [Intro to Data Science - Udacity](https://br.udacity.com/course/intro-to-data-science--ud359)
-
+- [Machine Learning Engineer - Udacity](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) - to be finished in October 2018.
