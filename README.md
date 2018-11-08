@@ -4,17 +4,15 @@ This is an aggregate of the courses I did to make my own data science "degree".
 
 ## Doing
 
-- [Machine Learning Engineer - Udacity](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) - to be finished in October 2018.
-
+- [How to lie with statistics](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)
+- [Welcome to Game Theory](https://www.coursera.org/learn/game-theory-introduction/home/welcome)
 
 ## Done
-
-### NanoDegree
-- [Introduction to Descriptive Statistics - Udacity](https://br.udacity.com/course/intro-to-descriptive-statistics--ud827)
 
 ### Machine Learning
 - [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning/) - [Certificate](https://github.com/leportella/my-datascience-degree/blob/master/certificates/Machine_Learning_Coursera.pdf)
 - Machine Learning by Hekima
+- [Machine Learning Engineer - Udacity](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 
 ### Data Engineer
 - Data Engineer by Hekima
@@ -25,6 +23,7 @@ This is an aggregate of the courses I did to make my own data science "degree".
 ### Books
 
 - [On being data skeptic by Cathy O'Neil](http://www.oreilly.com/data/free/being-a-data-skeptic.csp)
+- [Data Driven by Dj Patil](https://www.amazon.com.br/Data-Driven-English-DJ-Patil-ebook/dp/B00SXHFTAS/ref=sr_1_1?ie=UTF8&qid=1541638037&sr=8-1&keywords=data+driven)
 
 ### Videos
 
