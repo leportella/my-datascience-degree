@@ -14,9 +14,9 @@ This is an aggregate of the courses I did to make my own data science "degree".
 |------------------|--------------------------------------|----------------------|-------------|
 | Machine Learning | [Machine Learning ](https://www.coursera.org/learn/machine-learning/)| Coursera (Andrew Ng) | Dec/17      |
 | Machine Learning | Machine Learning                     | Hekima               | Dec/17      |
-| Machine Learning | [Machine Learning Engineer Nanodegree](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) | Udacity              | Sep/18      |
 | Data Engineer    | Data Engineer                        | Hekima               | Dec/17      |
 | Database         | [M001: MongoDB Basics](https://university.mongodb.com/mercury/M001/2018_January/syllabus)                 | Mongo University     |    Jan/18         |
+| Machine Learning | [Machine Learning Engineer Nanodegree](https://br.udacity.com/course/machine-learning-engineer-nanodegree--nd009) | Udacity              | Sep/18      |
 | Game Theory      | [Welcome to Game Theory](https://www.coursera.org/learn/game-theory-introduction/home/welcome)               | Coursera             | Nov/18      |
 
 ### Books
