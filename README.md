@@ -5,7 +5,7 @@ This is an aggregate of the courses I did to make my own data science "degree".
 ## Doing
 
 - [How to lie with statistics](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)
-- [Welcome to Game Theory](https://www.coursera.org/learn/game-theory-introduction/home/welcome)
+- [Nanodegree PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/syllabus/core-curriculum)
 
 ## Done
 
@@ -19,6 +19,9 @@ This is an aggregate of the courses I did to make my own data science "degree".
 
 ### DataBases
 - [M001: MongoDB Basics - Mongo University](https://university.mongodb.com/mercury/M001/2018_January/syllabus) - [Certificate](https://github.com/leportella/my-datascience-degree/blob/master/certificates/M001%20-%20Course%20Completion%20Confirmation.pdf)
+
+### Game Theory
+- [Welcome to Game Theory](https://www.coursera.org/learn/game-theory-introduction/home/welcome)
 
 ### Books
 
