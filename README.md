@@ -31,5 +31,6 @@ This is an aggregate of the courses I did to make my own data science "degree".
 - [Making data mean more through storytelling](https://www.youtube.com/watch?v=6xsvGYIxJok)
 - [Storytelling with data - Cole Nussbaumer](https://www.youtube.com/watch?v=8EMW7io4rSI&t=1721s)
 - [Weapons of math destruction - Cathy O'Neil](https://www.youtube.com/watch?v=TQHs8SA1qpk&t=2176s)
+- [Intro to Apache Spark Streaming](https://www.youtube.com/watch?v=2STfulBcorA)
 
 
