@@ -1,9 +1,12 @@
 # My Data Science Degree
 
-This is an aggregate of the courses I did to make my own data science "degree".
+This is an aggregate of the materials I studied in an attempt to become a data scientist. I call it my own data science "degree". 
+
+Not all of these have certificates and this is not the goal. My goal is to create a place to keep the things I studied together. This can be to easily help people beggining as well, to remember myself how much I studied and to avoid my insecurity sometimes. :)
 
 ## Doing
 
+- [Probability - The Science of Uncertainty and Data](https://courses.edx.org/courses/course-v1:MITx+6.431x+3T2018)
 - [Weapons of Math Destruction by Cathy O'Neil](https://weaponsofmathdestructionbook.com/)
 - [Nanodegree PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/syllabus/core-curriculum)
 
