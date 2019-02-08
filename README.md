@@ -33,9 +33,10 @@ Not all of these have certificates and this is not the goal. My goal is to creat
 
 | Subject                   | Type    | Name                                                 |
 |---------------------------|---------|------------------------------------------------------|
+| Big Data                  | Online Tutorial    | [Kafka - Core concepts](https://www.youtube.com/watch?v=udnX21__SuU)|  
 | Computer Science          | Online Videos Course    | [Computer Science Crash Course - Carrie Anne Philbin](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)|  
 | Management                | Talk    | [Data Science as a Team Sport - Angela Bassa](https://resources.rstudio.com/rstudio-conf-2019/data-science-as-a-team-sport)|  
-| Big Data                  |  Online Videos   | [Curso de Big Data - Ricardo Paiva](https://www.youtube.com/channel/UCezi21B6fL8H5gim3bRJvCw)|  
+| Big Data                  |  Online Tutorial   | [Curso de Big Data - Ricardo Paiva](https://www.youtube.com/channel/UCezi21B6fL8H5gim3bRJvCw)|  
 | Ethics                    |  Talk   | [Weapons of math destruction - Cathy O'Neil](https://www.youtube.com/watch?v=TQHs8SA1qpk&t=2176s)|  
 | Data Visualization        |  Talk   | [[Making data mean more through storytelling](https://www.youtube.com/watch?v=6xsvGYIxJok)|  
 | Data Visualization        |  Talk   | [Storytelling with data - Cole Nussbaumer](https://www.youtube.com/watch?v=8EMW7io4rSI&t=1721s)|            
