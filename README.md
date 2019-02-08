@@ -4,7 +4,7 @@ This is an aggregate of the courses I did to make my own data science "degree".
 
 ## Doing
 
-- [How to lie with statistics](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)
+- [Weapons of Math Destruction by Cathy O'Neil](https://weaponsofmathdestructionbook.com/)
 - [Nanodegree PyTorch Scholarship Challenge](https://classroom.udacity.com/nanodegrees/nd188/syllabus/core-curriculum)
 
 ## Done
@@ -21,16 +21,23 @@ This is an aggregate of the courses I did to make my own data science "degree".
 
 ### Books
 
+- [How to lie with statistics](http://faculty.neu.edu.cn/cc/zhangyf/papers/How-to-Lie-with-Statistics.pdf)
 - [On being data skeptic by Cathy O'Neil](http://www.oreilly.com/data/free/being-a-data-skeptic.csp)
 - [Data Driven by Dj Patil](https://www.amazon.com.br/Data-Driven-English-DJ-Patil-ebook/dp/B00SXHFTAS/ref=sr_1_1?ie=UTF8&qid=1541638037&sr=8-1&keywords=data+driven)
 
+
 ### Videos
 
-- [Introduction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I&index=82&list=LLJxQd98XUs_Ucg9FJ9VglgA&t=0s)
-- [Data-Driven Education - Khurram Virani](https://www.youtube.com/watch?v=L3eO8gYmWCc&t=433s)
-- [Making data mean more through storytelling](https://www.youtube.com/watch?v=6xsvGYIxJok)
-- [Storytelling with data - Cole Nussbaumer](https://www.youtube.com/watch?v=8EMW7io4rSI&t=1721s)
-- [Weapons of math destruction - Cathy O'Neil](https://www.youtube.com/watch?v=TQHs8SA1qpk&t=2176s)
-- [Intro to Apache Spark Streaming](https://www.youtube.com/watch?v=2STfulBcorA)
+| Subject                   | Type    | Name                                                 |
+|---------------------------|---------|------------------------------------------------------|
+| Computer Science          | Online Videos Course    | [Computer Science Crash Course - Carrie Anne Philbin](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)|  
+| Management                | Talk    | [Data Science as a Team Sport - Angela Bassa](https://resources.rstudio.com/rstudio-conf-2019/data-science-as-a-team-sport)|  
+| Big Data                  |  Online Videos   | [Curso de Big Data - Ricardo Paiva](https://www.youtube.com/channel/UCezi21B6fL8H5gim3bRJvCw)|  
+| Ethics                    |  Talk   | [Weapons of math destruction - Cathy O'Neil](https://www.youtube.com/watch?v=TQHs8SA1qpk&t=2176s)|  
+| Data Visualization        |  Talk   | [[Making data mean more through storytelling](https://www.youtube.com/watch?v=6xsvGYIxJok)|  
+| Data Visualization        |  Talk   | [Storytelling with data - Cole Nussbaumer](https://www.youtube.com/watch?v=8EMW7io4rSI&t=1721s)|            
+| Databases                 |  Talk   | [Introduction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I&index=82&list=LLJxQd98XUs_Ucg9FJ9VglgA&t=0s)|
+| Education                 |  Talk   |  Data-Driven Education - Khurram Virani](https://www.youtube.com/watch?v=L3eO8gYmWCc&t=433s)|
+
 
 
