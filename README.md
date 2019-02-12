@@ -41,7 +41,7 @@ Not all of these have certificates and this is not the goal. My goal is to creat
 | Data Visualization        |  Talk   | [[Making data mean more through storytelling](https://www.youtube.com/watch?v=6xsvGYIxJok)|  
 | Data Visualization        |  Talk   | [Storytelling with data - Cole Nussbaumer](https://www.youtube.com/watch?v=8EMW7io4rSI&t=1721s)|            
 | Databases                 |  Talk   | [Introduction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I&index=82&list=LLJxQd98XUs_Ucg9FJ9VglgA&t=0s)|
-| Education                 |  Talk   |  Data-Driven Education - Khurram Virani](https://www.youtube.com/watch?v=L3eO8gYmWCc&t=433s)|
+| Education                 |  Talk   |  [Data-Driven Education - Khurram Virani](https://www.youtube.com/watch?v=L3eO8gYmWCc&t=433s)|
 
 
 
